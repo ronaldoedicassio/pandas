@@ -2,5 +2,5 @@
 from controller.csv_controller import processar_csv
 
 if __name__ == "__main__":
-    caminho = 'data.csv'  # substitua pelo caminho real
+    caminho = 'data.csv'  
     processar_csv(caminho)
